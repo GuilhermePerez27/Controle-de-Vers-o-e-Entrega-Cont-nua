@@ -1,1 +1,1 @@
-# Controle-de-Vers-o-e-Entrega-Cont-nua
+# Controle-de-Versao-e-Entrega-Continua
